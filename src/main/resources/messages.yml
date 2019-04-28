@@ -1,0 +1,24 @@
+messages:
+  prefix: "§c§lJustBans §r§b§l- "
+  SQLShutOut: "%prefix%§aMySQL-Error. Please try again in a few seconds"
+  nopermission: "%prefix%§cYou don't have the Permission to do this"
+  unbansyntax: "%prefix%§cWrong Syntax. Use /unban <NAME>"
+  usernotbanned: "%prefix%§cThis player is not banned"
+  unbanned: "%prefix%§aYou successfully unbanned %name%"
+  bansyntax: "%prefix%§cWrong Syntax. Use /ban <NAME> <REASON> [TIME]"
+  alreadybanned: "%prefix%§cThis Player is already banned"
+  banned: "%prefix%§aYou successfully banned %name%"
+  notanumber: "%prefix%§cSorry, but this is not a number"
+  banmessage:
+    #You can use %prefix%, %uuid%, %name%, %enddate%, %reason%, %bantype%
+    #Columns with %enddate% will be excluded if the bantype is permanent
+    rejoin: "§cYou have been banned. \n§eRejoin to get more information"
+    firstcol: "§cYou have been banned"
+    secondcol: "§cType of Ban: §e%bantype%"
+    thirdcol: "§cUUID: §e%uuid%"
+    fourthcol: "§cUsername: §e%name%"
+    fifthcol: "§cReason: §e%reason%"
+    sixthcol: "§cBy: §e%bannedby%"
+    septhcol: "§eYou will be able to join again on %enddate%"
+    permanent: "Permanent"
+    temporary: "Temporory"

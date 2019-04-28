@@ -1,0 +1,3 @@
+bans:
+  #You can use s, m, h, d, w, M, y and PERMANENT
+  dateformat: "dd.MM.yyyy HH:mm:ss"

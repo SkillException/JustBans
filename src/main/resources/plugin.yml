@@ -1,0 +1,8 @@
+name: JustBans
+version: 1
+author: SkillException
+main: me.skillexception.justbans.JustBansMain
+load: STARTUP
+commands:
+  ban:
+  unban:
