@@ -8,7 +8,7 @@
 
 ### Quickstart-Tutorial:
 1. Put the JustBans.jar into the plugins-folder of your server
-2. Start the server and stop it again.+
+2. Start the server and stop it again.
 3. Maybe replace the plugins/JustBans/messages.yml with one of the attached or your own
 4. Create a database and put the credentials in plugins/JustBans/mysql.yml
 5. Start the Server and try to connect
