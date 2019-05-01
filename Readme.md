@@ -21,4 +21,4 @@
 
 
 ## Video-tutorials:
-- German tutorial by me: https://bit.ly/JustBansTutorial
+- German tutorial by me: https://youtu.be/e8YHArkXKKg
